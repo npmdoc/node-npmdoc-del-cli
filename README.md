@@ -1,4 +1,7 @@
-# api documentation for  [del-cli (v0.2.1)](https://github.com/sindresorhus/del-cli#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-del-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-del-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-del-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-del-cli)
+# npmdoc-del-cli
+
+#### basic api documentation for  [del-cli (v0.2.1)](https://github.com/sindresorhus/del-cli#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-del-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-del-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-del-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-del-cli)
+
 #### Delete files and folders
 
 [![NPM](https://nodei.co/npm/del-cli.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/del-cli)
